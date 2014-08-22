@@ -200,6 +200,7 @@ var/
 sdist/
 develop-eggs/
 .installed.cfg
+twit-master/
 
 # Installer logs
 pip-log.txt
